@@ -19,6 +19,7 @@ namespace SMS_API
 {
     public class Startup
     {
+        //constructor
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
