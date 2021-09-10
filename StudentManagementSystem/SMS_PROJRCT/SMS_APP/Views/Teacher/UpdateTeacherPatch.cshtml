@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateTeacherPatch";
+}
+
+<h1>UpdateTeacherPatch</h1>
+
+@model TeacherModel
+@{ Layout = "_Layout"; ViewBag.Title = "Update a Reservation from PATCH request";}
+
+<h2>Update a Student from Patch request<a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="TeacherId"></label>
+        <input type="number" class="form-control" asp-for="TeacherId" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TeacherName"></label>
+        <input class="form-control" asp-for="TeacherName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="ClassName"></label>
+        <input class="form-control" asp-for="ClassName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Dob"></label>
+        <input class="form-control" asp-for="Dob" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        <input class="form-control" asp-for="Gender" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Contact"></label>
+        <input class="form-control" asp-for="Contact" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Address"></label>
+        <input class="form-control" asp-for="Address" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Update</button>
+    </div>
+</form>

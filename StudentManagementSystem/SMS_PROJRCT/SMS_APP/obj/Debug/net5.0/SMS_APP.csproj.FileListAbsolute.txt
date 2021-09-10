@@ -1,0 +1,268 @@
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.exe
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.deps.json
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.runtimeconfig.json
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.runtimeconfig.dev.json
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ref\SMS_APP.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.pdb
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.Views.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\SMS_APP.Views.pdb
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.csproj.AssemblyReference.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.AssemblyInfoInputs.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.AssemblyInfo.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.csproj.CoreCompileInputs.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorAssemblyInfo.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorAssemblyInfo.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\staticwebassets\SMS_APP.StaticWebAssets.Manifest.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\staticwebassets\SMS_APP.StaticWebAssets.xml
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\scopedcss\bundle\SMS_APP.styles.css
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.TagHelpers.input.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.TagHelpers.output.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorCoreGenerate.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorTargetAssemblyInfo.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.Views.pdb
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.csproj.CopyComplete
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.dll
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\ref\SMS_APP.dll
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.pdb
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\SMS_APP.genruntimeconfig.cache
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Souvik\source\repos\SMS_APP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\AddStudent.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\GetStudentById.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\UpdateStudentPatch.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Fee\Index.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Fee\AddFee.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\Index.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\GetCashierById.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\AddCashier.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\UpdateCashierPatch.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\GetTeacherById.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\AddTeacher.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\UpdateTeacherPatch.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Grade\Index.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Grade\AddGrade.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Grade\UpdateGradePatch.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Attendance\Index.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Attendance\AddAttendance.cshtml.g.cs
+C:\Users\Souvik\source\repos\SMS_APP\obj\Debug\net5.0\Razor\Views\Attendance\UpdateAttendancePatch.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\appsettings.Development.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\appsettings.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.exe
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.deps.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.runtimeconfig.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.runtimeconfig.dev.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ref\SMS_APP.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.Views.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\SMS_APP.Views.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Humanizer.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\System.Composition.Convention.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\System.Composition.Hosting.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\System.Composition.Runtime.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.csproj.AssemblyReference.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.GeneratedMSBuildEditorConfig.editorconfig
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.AssemblyInfoInputs.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.AssemblyInfo.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.csproj.CoreCompileInputs.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.MvcApplicationPartsAssemblyInfo.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorAssemblyInfo.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorAssemblyInfo.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\staticwebassets\SMS_APP.StaticWebAssets.Manifest.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\staticwebassets\SMS_APP.StaticWebAssets.xml
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\scopedcss\bundle\SMS_APP.styles.css
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.TagHelpers.input.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.TagHelpers.output.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorCoreGenerate.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Attendance\AddAttendance.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Attendance\Index.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Attendance\UpdateAttendancePatch.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\AddCashier.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\GetCashierById.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\Index.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Cashier\UpdateCashierPatch.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Fee\AddFee.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Fee\Index.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Grade\AddGrade.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Grade\Index.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Grade\UpdateGradePatch.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\AddStudent.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\GetStudentById.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Student\UpdateStudentPatch.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\AddTeacher.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\GetTeacherById.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\Index.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\Teacher\UpdateTeacherPatch.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorTargetAssemblyInfo.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.RazorTargetAssemblyInfo.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.Views.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.csproj.CopyComplete
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\ref\SMS_APP.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\New folder\SMS_APP\obj\Debug\net5.0\SMS_APP.genruntimeconfig.cache

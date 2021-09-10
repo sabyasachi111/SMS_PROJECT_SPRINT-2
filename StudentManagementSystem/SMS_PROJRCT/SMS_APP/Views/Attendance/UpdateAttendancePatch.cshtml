@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateAttendancePatch";
+}
+
+<h1>UpdateAttendancePatch</h1>
+
+@model AttendanceModel
+@{Layout = "_Layout"; ViewBag.Title = "Update Attendance Details";}
+
+<h1>Update Attendance Details</h1>
+<h2>Update Attendance from Patch request<a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+
+
+<form method="post">
+    @*<div class="form-group">
+            <label asp-for="AttendanceId">Attendance ID : </label>
+            <input type="number" class="form-control" asp-for="AttendanceId" />
+        </div>*@
+
+
+    @*<div class="for-group">
+            <label asp-for="StudentId">Student ID :</label>
+            <input type="number" class="form-control" asp-for="StudentId" />
+        </div>*@
+
+    <div class="for-group">
+        <label asp-for="AttendanceDate">Attendance Date : </label>
+        <input class="form-control" asp-for="AttendanceDate" />
+    </div>
+
+
+
+    <div class="for-group">
+        <label asp-for="Attended">Attended : </label>
+        <input class="form-control" asp-for="Attended" />
+    </div>
+
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Update</button>
+    </div>
+
+</form>

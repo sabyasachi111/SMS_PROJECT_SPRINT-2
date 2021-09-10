@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewData["Title"] = "AddTeacher";
+}
+
+<h1>AddTeacher</h1>
+
+@model TeacherModel
+@{ Layout = "_Layout"; ViewBag.Title = "Add a Student";}
+
+<h2>Add a Reservation <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="AddTeacher" method="post">
+    <div class="form-group">
+        <label asp-for="TeacherId"></label>
+        <input type="number" class="form-control" asp-for="TeacherId" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TeacherName"></label>
+        <input class="form-control" asp-for="TeacherName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="ClassName"></label>
+        <input class="form-control" asp-for="ClassName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Dob"></label>
+        <input class="form-control" asp-for="Dob" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        <input class="form-control" asp-for="Gender" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Contact"></label>
+        <input class="form-control" asp-for="Contact" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Address"></label>
+        <input class="form-control" asp-for="Address" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+
+    <h3>Task Completed</h3>
+    @*<h2>Reservation</h2>
+        <table class="table table-sm table-striped table-bordered m-2">
+            <thead>
+                <tr>
+                    <th>Student ID</th>
+                    <th>Class Name</th>
+                    <th>Student Name</th>
+                    <th>Gender</th>
+                    <th>DOB</th>
+                    <th>Blood Group</th>
+                    <th>Contact</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.StudentId</td>
+                    <td>@Model.ClassName</td>
+                    <td>@Model.StudentName</td>
+                    <td>@Model.Gender</td>
+                    <td>@Model.Dob</td>
+                    <td>@Model.BloodGroup</td>
+                    <td>@Model.Contact</td>
+                    <td>@Model.Address</td>
+                </tr>
+            </tbody>
+        </table>*@
+}
