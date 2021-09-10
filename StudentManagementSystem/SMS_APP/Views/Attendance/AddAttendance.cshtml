@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "AddAttendance";
+}
+
+<h1>AddAttendance</h1>
+
+@model AttendanceModel
+@{ Layout = "_Layout"; ViewBag.Title = "Add New Attendance";}
+
+<h1>Add New Attendance <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h1>
+<form asp-action="AddAttendance" method="post">
+    <div class="form-group">
+        <label for="AttendanceId">Attendance ID : </label>
+        <input class="form-control" name="AttendanceId" />
+    </div>
+    <div class="form-group">
+        <label for="StudentId">Student ID : </label>
+        <input class="form-control" name="StudentId" />
+    </div>
+    <div class="form-group">
+        <label for="AttendanceDate">Attendance Date : </label>
+        <input class="form-control" name="AttendanceDate" />
+    </div>
+
+    <div class="form-group">
+        <label for="Attended">Attended : </label>
+        <input class="form-control" name="Attended" />
+    </div>
+
+
+
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+
+    <h2>Task Completed</h2>
+
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead>
+            <tr>
+
+            <tr>
+                <th>AttendanceId</th>
+                <th>StudentId</th>
+                <th>AttendanceDate</th>
+                <th>Attended</th>
+
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.AttendanceId</td>
+                <td>@Model.StudentId</td>
+                <td>@Model.AttendanceDate</td>
+                <td>@Model.Attended</td>
+
+            </tr>
+        </tbody>
+    </table>
+}

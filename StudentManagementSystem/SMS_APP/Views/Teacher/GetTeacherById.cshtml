@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "GetTeacherById";
+}
+
+<h1>GetTeacherById</h1>
+
+@model TeacherModel
+@{ Layout = "_Layout"; ViewBag.Title = "Get Teacher by Id";}
+
+<h2>Get Student by Id <a asp-action="Index" class="btn btn-sm btn-primary">Back</a></h2>
+<h3>@ViewBag.StatusCode</h3>
+<form method="post">
+    <div class="form-group">
+        <label for="id">Id:</label>
+        <input class="form-control" name="id" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Get Student</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>TEACHER</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead>
+            <tr>
+                <th>Teacher ID</th>
+                <th>Class Name</th>
+                <th>Teacher Name</th>
+                <th>Gender</th>
+                <th>DOB</th>
+                <th>Contact</th>
+                <th>Email</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.TeacherId</td>
+                <td>@Model.ClassName</td>
+                <td>@Model.TeacherName</td>
+                <td>@Model.Gender</td>
+                <td>@Model.Dob</td>
+                <td>@Model.Contact</td>
+                <td>@Model.Email</td>
+                <td>@Model.Address</td>
+            </tr>
+        </tbody>
+    </table>
+}
