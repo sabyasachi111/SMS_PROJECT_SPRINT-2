@@ -5686,19 +5686,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Souvik\\.nuget\\packages\\": {}
+    "C:\\Users\\nayak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Souvik\\source\\repos\\SMS_API\\SMS_API.csproj",
+      "projectUniqueName": "E:\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\SMS_API.csproj",
       "projectName": "SMS_API",
-      "projectPath": "C:\\Users\\Souvik\\source\\repos\\SMS_API\\SMS_API.csproj",
-      "packagesPath": "C:\\Users\\Souvik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Souvik\\source\\repos\\SMS_API\\obj\\",
+      "projectPath": "E:\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\SMS_API.csproj",
+      "packagesPath": "C:\\Users\\nayak\\.nuget\\packages\\",
+      "outputPath": "E:\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Souvik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nayak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5775,7 +5775,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -39,6 +39,7 @@ namespace SMS_API.Repository
 
 
         //To Add new Cashier in the database
+        
         public async Task<decimal> AddGradeAsync(GradeModel x)
         {
             // We create a object with property values of BookEntity class
