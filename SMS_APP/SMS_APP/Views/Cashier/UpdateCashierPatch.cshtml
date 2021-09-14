@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Update Cashier Patch";
+}
+
+@model CashierModel
+@{ Layout = "_Layout"; ViewBag.Title = "Update a Cashier";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Update Cashier Details</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Cashier" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form method="post">
+                <div class="form-group">
+                    <label asp-for="CashierId"></label>
+                    <input type="number" class="form-control" asp-for="CashierId" />
+                    <span asp-validation-for="CashierId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CashierName"></label>
+                    <input class="form-control" asp-for="CashierName" />
+                    <span asp-validation-for="CashierName"></span>
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <h3>Task Completed</h3>
+}

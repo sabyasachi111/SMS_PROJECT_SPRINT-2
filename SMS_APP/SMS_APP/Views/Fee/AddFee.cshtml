@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewData["Title"] = "AddFee";
+}
+
+@model FeeModel
+@{ Layout = "_Layout"; ViewBag.Title = "Add a Fee";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Pay Fees</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Fee" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form asp-action="AddFee" method="post">
+                <div class="form-group">
+                    <label asp-for="InvoiceId"></label>
+                    <input type="number" class="form-control" asp-for="InvoiceId" />
+                    <span asp-validation-for="InvoiceId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="StudentId"></label>
+                    <input class="form-control" asp-for="StudentId" />
+                    <span asp-validation-for="StudentId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CashierId"></label>
+                    <input class="form-control" asp-for="CashierId" />
+                    <span asp-validation-for="CashierId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PaymentDate"></label>
+                    <input class="form-control" asp-for="PaymentDate" />
+                    <span asp-validation-for="PaymentDate"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FeesAmount"></label>
+                    <input class="form-control" asp-for="FeesAmount" />
+                    <span asp-validation-for="FeesAmount"></span>
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Pay</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model != null)
+{
+
+    <h3>Task Completed</h3>
+    @*<h2>Reservation</h2>
+        <table class="table table-secondary">
+            <thead>
+                <tr>
+                    <th>Student ID</th>
+                    <th>Class Name</th>
+                    <th>Student Name</th>
+                    <th>Gender</th>
+                    <th>DOB</th>
+                    <th>Blood Group</th>
+                    <th>Contact</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.StudentId</td>
+                    <td>@Model.ClassName</td>
+                    <td>@Model.StudentName</td>
+                    <td>@Model.Gender</td>
+                    <td>@Model.Dob</td>
+                    <td>@Model.BloodGroup</td>
+                    <td>@Model.Contact</td>
+                    <td>@Model.Address</td>
+                </tr>
+            </tbody>
+        </table>*@
+}

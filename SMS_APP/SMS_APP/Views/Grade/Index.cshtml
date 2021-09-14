@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<GradeModel>
+@{ Layout = "_Layout"; ViewBag.Title = "All Grades";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Grade Details</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Teacher">BACK</a>
+    </span>
+</header>
+<br />
+<a asp-action="AddGrade" class="btn btn-primary">Add Grade</a>
+<br />
+<br />
+@*<a asp-action="Index" class="btn btn-sm btn-secondary">Get Grade</a>*@
+
+<table class="table table-secondary">
+    <thead>
+        <tr>
+            <th>Grade ID</th>
+            <th>Student ID</th>
+            <th>Grade Name</th>
+            <th>Description</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.GradeId</td>
+                <td>@r.StudentId</td>
+                <td>@r.GradeName</td>
+                <td>@r.Description</td>
+                <td>
+                    <a asp-action="UpdateGradePatch" asp-route-id="@r.GradeId">
+                        UPDATE
+                    </a>
+                </td>
+                <td>
+                    <form asp-action="DeleteGrade" method="post">
+                        <input type="hidden" value="@r.GradeId" name="GradeId" />
+                        <input type="image" src="https://www.freeiconspng.com/thumbs/close-icon/close-icon-30.png" height="10" width="10" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

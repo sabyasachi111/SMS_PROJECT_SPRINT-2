@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "AddGrade";
+}
+
+@model GradeModel
+@{ Layout = "_Layout"; ViewBag.Title = "Add a Reservation";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Add Grade</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Grade" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form asp-action="AddGrade" method="post">
+                <div class="form-group">
+                    <label asp-for="GradeId">Grade ID:</label>
+                    <input class="form-control" name="GradeId" />
+                    <span asp-validation-for="GradeId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="StudentId">Student ID:</label>
+                    <input class="form-control" name="StudentId" />
+                    <span asp-validation-for="StudentId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="GradeName">Grade Name:</label>
+                    <input class="form-control" name="GradeName" />
+                    <span asp-validation-for="GradeName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description">Description:</label>
+                    <input class="form-control" name="Description" />
+                    <span asp-validation-for="Description"></span>
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <h2>Grade</h2>
+    <table class="table table-secondary">
+        <thead>
+            <tr>
+                <th>Grade ID</th>
+                <th>Student ID</th>
+                <th>Grade Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.GradeId</td>
+                <td>@Model.StudentId</td>
+                <td>@Model.GradeName</td>
+                <td>@Model.Description</td>
+            </tr>
+        </tbody>
+    </table>
+}

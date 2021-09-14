@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "GetFeesById";
+}
+
+@model FeeModel
+@{ Layout = "_Layout"; ViewBag.Title = "Generate Invoice";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Generate Invoice</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Fee" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<h3>@ViewBag.StatusCode</h3>
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form method="post">
+                <div class="form-group">
+                    <label for="id">Id:</label>
+                    <input class="form-control" name="id" />
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Generate Invoice</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+            @if (Model != null)
+            {
+                <br />
+                <br />
+                <br />
+                <h1 align="Center">Fees Invoice</h1>
+                <table class="table table-secondary">
+
+                    <thead>
+                        <tr>
+                            <th>Invoice Id</th>
+                            <td>@Model.InvoiceId</td>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <th>Student Id</th>
+                            <td>@Model.StudentId</td>
+                        </tr>
+                        <tr>
+                            <th>Cashier Id </th>
+                            <td>@Model.CashierId</td>
+                        </tr>
+                        <tr>
+                            <th>PaymentDate</th>
+                            <td>@Model.PaymentDate</td>
+                        </tr>
+                        <tr>
+                            <th>FeesAmount</th>
+                            <td>@Model.FeesAmount</td>
+                        </tr>
+
+                    </tbody>
+
+
+
+                </table>
+            }

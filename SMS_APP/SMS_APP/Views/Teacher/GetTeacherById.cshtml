@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewData["Title"] = "Get Teacher By Id";
+}
+
+@model TeacherModel
+@{ Layout = "_Layout"; ViewBag.Title = "Get Teacher by Id";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Get Teacher Details by ID</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Teacher" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+<h3>@ViewBag.StatusCode</h3>
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form method="post">
+                <div class="form-group">
+                    <label for="id">ID:</label>
+                    <input class="form-control" name="id" />
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Get Teacher</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <h2>TEACHER</h2>
+    <table class="table table-secondary">
+        <thead>
+            <tr>
+                <th>Teacher ID</th>
+                <th>Class Name</th>
+                <th>Teacher Name</th>
+                <th>Gender</th>
+                <th>DOB</th>
+                <th>Contact</th>
+                <th>Email</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.TeacherId</td>
+                <td>@Model.ClassName</td>
+                <td>@Model.TeacherName</td>
+                <td>@Model.Gender</td>
+                <td>@Model.Dob</td>
+                <td>@Model.Contact</td>
+                <td>@Model.Email</td>
+                <td>@Model.Address</td>
+            </tr>
+        </tbody>
+    </table>
+}

@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "Update Teacher Patch";
+}
+
+@model TeacherModel
+@{ Layout = "_Layout"; ViewBag.Title = "Update Teacher";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Update Teacher Details</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Teacher" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form method="post">
+                @*<div class="form-group">
+                        <label asp-for="TeacherId"></label>
+                        <input type="number" class="form-control" asp-for="TeacherId" />
+                    </div>*@
+                <div class="form-group">
+                    <label asp-for="TeacherName"></label>
+                    <input class="form-control" asp-for="TeacherName" />
+                    <span asp-validation-for="TeacherName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ClassName"></label>
+                    <input class="form-control" asp-for="ClassName" />
+                    <span asp-validation-for="ClassName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Dob"></label>
+                    <input class="form-control" asp-for="Dob" />
+                    <span asp-validation-for="Dob"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Gender"></label>
+                    <input class="form-control" asp-for="Gender" />
+                    <span asp-validation-for="Gender"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Contact"></label>
+                    <input class="form-control" asp-for="Contact" />
+                    <span asp-validation-for="Contact"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input class="form-control" asp-for="Email" />
+                    <span asp-validation-for="Email"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address"></label>
+                    <input class="form-control" asp-for="Address" />
+                    <span asp-validation-for="Address"></span>
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+@if (Model != null)
+{
+    <h3>Task Completed</h3>
+}

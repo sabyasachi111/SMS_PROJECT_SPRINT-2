@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateAttendancePatch";
+}
+
+@model AttendanceModel
+@{Layout = "_Layout"; ViewBag.Title = "Update Attendance Details";}
+
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Update Attendance</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Attendance" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form method="post">
+                @*<div class="form-group">
+                        <label asp-for="AttendanceId">Attendance ID : </label>
+                        <input type="number" class="form-control" asp-for="AttendanceId" />
+                    </div>*@
+
+
+                @*<div class="for-group">
+                        <label asp-for="StudentId">Student ID :</label>
+                        <input type="number" class="form-control" asp-for="StudentId" />
+                    </div>*@
+
+                <div class="for-group">
+                    <label asp-for="AttendanceDate">Attendance Date : </label>
+                    <input class="form-control" asp-for="AttendanceDate" />
+                    <span asp-validation-for="AttendanceDate"></span>
+                </div>
+
+
+
+                <div class="for-group">
+                    <label asp-for="Attended">Attended : </label>
+                    <input class="form-control" asp-for="Attended" />
+                    <span asp-validation-for="Attended"></span>
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+@if (Model != null)
+{
+    <h3>Task Completed</h3>
+}

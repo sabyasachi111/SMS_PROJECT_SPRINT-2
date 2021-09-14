@@ -1,0 +1,256 @@
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\SMS_API.exe
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\SMS_API.deps.json
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.json
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.dev.json
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\SMS_API.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\ref\SMS_API.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\SMS_API.pdb
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.csproj.AssemblyReference.cache
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfoInputs.cache
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfo.cs
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CoreCompileInputs.cache
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.Manifest.cache
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.xml
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\scopedcss\bundle\SMS_API.styles.css
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.RazorTargetAssemblyInfo.cache
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CopyComplete
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.dll
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\ref\SMS_API.dll
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.pdb
+C:\Users\Souvik\source\repos\SMS_API\obj\Debug\net5.0\SMS_API.genruntimeconfig.cache
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Souvik\source\repos\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\appsettings.json
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.exe
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.deps.json
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.json
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.dev.json
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\ref\SMS_API.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.pdb
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Humanizer.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.AssemblyReference.cache
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfoInputs.cache
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfo.cs
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CoreCompileInputs.cache
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.Manifest.cache
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.xml
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\scopedcss\bundle\SMS_API.styles.css
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.RazorTargetAssemblyInfo.cache
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CopyComplete
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\ref\SMS_API.dll
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.pdb
+E:\Team5_Sprint2\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.genruntimeconfig.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\appsettings.Development.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\appsettings.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.exe
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.deps.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.dev.json
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\ref\SMS_API.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Humanizer.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.AssemblyReference.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.GeneratedMSBuildEditorConfig.editorconfig
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfoInputs.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfo.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CoreCompileInputs.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cs
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.Manifest.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.xml
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\scopedcss\bundle\SMS_API.styles.css
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.RazorTargetAssemblyInfo.cache
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CopyComplete
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\ref\SMS_API.dll
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.pdb
+S:\Capgemini\Sprint 2- 6th September to 13th September\Team5\FINAL\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.genruntimeconfig.cache
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\appsettings.json
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.exe
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.deps.json
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.json
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.runtimeconfig.dev.json
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\ref\SMS_API.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\SMS_API.pdb
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Humanizer.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sprint2_Project\SMS_API\SMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.AssemblyReference.cache
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfoInputs.cache
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.AssemblyInfo.cs
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CoreCompileInputs.cache
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.Manifest.cache
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\staticwebassets\SMS_API.StaticWebAssets.xml
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\scopedcss\bundle\SMS_API.styles.css
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.RazorTargetAssemblyInfo.cache
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.csproj.CopyComplete
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.dll
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\ref\SMS_API.dll
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.pdb
+E:\Sprint2_Project\SMS_API\SMS_API\obj\Debug\net5.0\SMS_API.genruntimeconfig.cache

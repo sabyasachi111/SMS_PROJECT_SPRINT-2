@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Cashier";
+}
+
+<div>
+    <header class="container thead-dark card-header">
+        <h2 style="font-family: 'Special Elite', cursive;"><b>Hello Cashier!</b></h2>
+        <span class="badge bg-danger float-end">
+            <a class="nav-link text-light" asp-area="" asp-controller="Account" asp-action="Login">LOG OUT</a>
+        </span>
+    </header>
+</div>
+
+@*<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SMS_APP</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Cashier" asp-action="Index">Cashier</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Fee" asp-action="Index">Fee</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">LOG OUT</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>*@
+
+
+<br />
+<div>
+    <!--<div class="card bg-light mb-3 justify-content-center" style="max-width: 20rem; margin-left: 400px">
+        <div class="card-header"><b>UPDATE CASHIER DETAILS!!</b></div>
+        <div class="card-body">
+            <p class="card-title">Here is your link to access Cashiers Data</p>-->
+            @*<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>*@
+            <!--<a class="btn btn-outline-info" asp-area="" asp-controller="Cashier" asp-action="Index">Cashier</a>
+        </div>
+    </div>
+    <br />-->
+    <div class="card bg-light mb-3 justify-content-center" style="max-width: 20rem; margin: 0 auto;">
+        <div class="card-header"><b>PAY FEES!!</b></div>
+        <div class="card-body">
+            <p class="card-title">Here is your link to Pay and Update Fees Records</p>
+            @*<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>*@
+            <a class="btn btn-outline-info" asp-area="" asp-controller="Fee" asp-action="Index">Pay Fees</a>
+        </div>
+    </div>
+</div>

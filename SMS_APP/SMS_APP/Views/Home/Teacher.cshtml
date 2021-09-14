@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "Teacher";
+}
+
+<div>
+    <header class="container thead-dark card-header">
+        <h2 style="font-family: 'Special Elite', cursive;"><b>Hello Teacher!</b></h2>
+        <span class="badge bg-danger float-end">
+            <a class="nav-link text-light" asp-area="" asp-controller="Account" asp-action="Login">LOG OUT</a>
+        </span>
+    </header>
+</div>
+
+
+@*<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SMS_APP</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Teacher" asp-action="Index">Teacher</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Attendance" asp-action="Index">Attendance</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Grade" asp-action="Index">Grade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">LOG OUT</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>*@
+
+
+<br />
+<div>
+    <div class="card bg-light mb-3 justify-content-center" style="max-width: 20rem; margin-left: 498px">
+        <div class="card-header"><b>UPDATE TEACHER DETAILS!!</b></div>
+        <div class="card-body">
+            <p class="card-title">Here is your link to access Teachers Data</p>
+            @*<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>*@
+            <a class="btn btn-outline-info" asp-area="" asp-controller="Teacher" asp-action="Index">Update Teacher Details</a>
+        </div>
+    </div>
+    <br />
+    <div class="card bg-light mb-3 justify-content-center" style="max-width: 20rem; margin: 0 auto;">
+        <div class="card-header"><b>MANAGE ATTENDANCE!!</b></div>
+        <div class="card-body">
+            <p class="card-title">Here is your link to access Attendance Records</p>
+            @*<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>*@
+            <a class="btn btn-outline-info" asp-area="" asp-controller="Attendance" asp-action="Index">Update Attendance</a>
+        </div>
+    </div>
+    <br />
+    <div class="card bg-light mb-3 justify-content-center" style="max-width: 20rem; margin: 0 auto;">
+        <div class="card-header"><b>MANAGE STUDENT GRADES!!</b></div>
+        <div class="card-body">
+            <p class="card-title">Here is your link to access Grade Records</p>
+            @*<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>*@
+            <a class="btn btn-outline-info" asp-area="" asp-controller="Grade" asp-action="Index">Update Student Grades</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Get Cashier By Id";
+}
+
+
+@model CashierModel
+@{ Layout = "_Layout"; ViewBag.Title = "Get Cashier by Id";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Get Cashier Details by ID</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Cashier" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+<h3>@ViewBag.StatusCode</h3>
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form method="post">
+                <div class="form-group">
+                    <label for="id">ID:</label>
+                    <input class="form-control" name="id" />
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Get Cashier</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <h2>Cashier</h2>
+    <table class="table table-secondary">
+        <thead>
+            <tr>
+                <th>Cashier ID</th>
+                <th>Cashier Name</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.CashierId</td>
+                <td>@Model.CashierName</td>
+
+            </tr>
+        </tbody>
+    </table>
+}

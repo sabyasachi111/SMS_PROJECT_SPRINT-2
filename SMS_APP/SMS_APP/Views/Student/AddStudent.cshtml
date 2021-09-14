@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewData["Title"] = "AddStudent";
+}
+
+@model StudentModel
+@{ Layout = "_Layout"; ViewBag.Title = "Add a Student";}
+
+<header class="container thead-dark card-header">
+    <h2 style="font-family: 'Special Elite', cursive;"><b>Add Student</b></h2>
+    <span class="badge bg-danger float-end">
+        <a class="nav-link text-light" asp-area="" asp-controller="Student" asp-action="Index">BACK</a>
+    </span>
+</header>
+<br />
+
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-body">
+            <form asp-action="AddStudent" method="post">
+                <div class="form-group">
+                    <label asp-for="StudentId"></label>
+                    <input type="number" class="form-control" asp-for="StudentId" />
+                    <span asp-validation-for="StudentId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="StudentName"></label>
+                    <input class="form-control" asp-for="StudentName" />
+                    <span asp-validation-for="StudentName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ClassName"></label>
+                    <input class="form-control" asp-for="ClassName" />
+                    <span asp-validation-for="ClassName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Dob"></label>
+                    <input class="form-control" asp-for="Dob" />
+                    <span asp-validation-for="Dob"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Gender"></label>
+                    <input class="form-control" asp-for="Gender" />
+                    <span asp-validation-for="Gender"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BloodGroup"></label>
+                    <input class="form-control" asp-for="BloodGroup" />
+                    <span asp-validation-for="BloodGroup"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Contact"></label>
+                    <input class="form-control" asp-for="Contact" />
+                    <span asp-validation-for="Contact"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address"></label>
+                    <input class="form-control" asp-for="Address" />
+                    <span asp-validation-for="Address"></span>
+                </div>
+                <br />
+                <div class="text-center panel-body">
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model != null)
+{
+
+    <h3>Task Completed</h3>
+    @*<h2>Reservation</h2>
+        <table class="table table-secondary">
+            <thead>
+                <tr>
+                    <th>Student ID</th>
+                    <th>Class Name</th>
+                    <th>Student Name</th>
+                    <th>Gender</th>
+                    <th>DOB</th>
+                    <th>Blood Group</th>
+                    <th>Contact</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.StudentId</td>
+                    <td>@Model.ClassName</td>
+                    <td>@Model.StudentName</td>
+                    <td>@Model.Gender</td>
+                    <td>@Model.Dob</td>
+                    <td>@Model.BloodGroup</td>
+                    <td>@Model.Contact</td>
+                    <td>@Model.Address</td>
+                </tr>
+            </tbody>
+        </table>*@
+}

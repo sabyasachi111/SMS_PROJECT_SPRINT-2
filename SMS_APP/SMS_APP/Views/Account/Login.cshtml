@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+@model LoginModel
+@{ Layout = "_Layout"; ViewBag.Title = "Login";}
+
+<header class="container thead-dark card-header" align="center">
+    <img src="~/lib/Logo.png" height="100" alt="SMS Logo" />
+    <h1 style="font-family: 'Crete Round', serif; ">SCHOOL MANAGEMENT SYSTEM</h1>
+</header>
+@*<nav class="navbar">
+        <a class="navbar-brand" href="#">
+            <img src="~/lib/Logo.png" height="30" alt="SMS logo">
+        </a>
+    </nav>*@
+<br />
+<div class="container card-text justify-content-center" style="max-width: 36rem; margin: 0 auto" ;>
+    <div>
+        <div class="card-text" style="text-align: center; font-family: 'Secular One', sans-serif;"><h2>LOGIN</h2></div>
+        <div class="card-body">
+            <form asp-action="Login" method="post">
+                <div class="form-group">
+                    <label asp-for="LoginId">Login ID</label>
+                    <input type="number" class="form-control" style="border-radius: 15px" id="LoginId" name="LoginId" asp-for="LoginId" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Password">Password</label>
+                    <input type="password" class="form-control" style="border-radius: 15px" id="password" name="password" asp-for="Password" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Role">Role</label>
+                    <input type="password" class="form-control" style="border-radius: 15px" id="Role" name="Role" asp-for="Role" />
+                </div>
+                <br />
+                <div class="form-group" align="center">
+                    <label></label>
+                    <input type="submit" class="btn btn-primary" value="Login" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
